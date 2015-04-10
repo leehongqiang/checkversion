@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/Method/__init__.py=utf-8
+encoding//src/Method/checkgui.py=utf-8
+encoding//src/Method/drwinstall.py=utf-8
+encoding//src/Method/drwuninstall.py=utf-8
+encoding//src/Method/isislversion.py=utf-8
+encoding//src/Resource/Languages/__init__.py=utf-8
+encoding//src/Resource/drw/__init__.py=utf-8
+encoding//src/report/__init__.py=utf-8
+encoding//src/testcheckversion.py=utf-8
